@@ -1,0 +1,8 @@
+textarea {
+    min-height: 400px;
+}
+
+.subject-archive {
+    display: flex;
+    justify-content: space-between;
+}
